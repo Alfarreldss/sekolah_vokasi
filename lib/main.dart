@@ -30,7 +30,7 @@ class VokasiApp extends StatelessWidget {
               style: GoogleFonts.poppins(
                 fontSize: 12,
                 fontWeight: FontWeight.normal,
-                color: Color.fromARGB(255, 0, 0, 0),
+                color: Colors.grey,
               ),
             ),
             Center(
